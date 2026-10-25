@@ -8,7 +8,7 @@ import gdown
 st.set_page_config(page_title="Pneumonia Detection")
 
 st.title("Pneumonia Detection Using CNN")
-st.write(“Upload a chest X-ray image for an experimental model prediction.”)
+st.write("Upload a chest X-ray image for an experimental model prediction.")
 
 st.warning(
 “This is a college project demonstration only. “
