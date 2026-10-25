@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 import gdown
 
-st.set_page_config(page_title=“Pneumonia Detection”, page_icon=“X”)
+st.set_page_config(page_title=“Pneumonia Detection”)
 st.title(“Pneumonia Detection Using CNN”)
 
 st.warning(“College project demonstration only. Not intended for medical diagnosis.”)
